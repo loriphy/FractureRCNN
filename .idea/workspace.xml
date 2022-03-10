@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b661389-b70c-4ff0-832f-625519be11e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="simple-faster-rcnn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="34e3fb52-5b83-4e81-8d63-7c604fad5f91" />
+  <component name="ProjectId" id="1Z4b0iOiBrX5v7hG4JstqlvuiLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="fighting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple-faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fighting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getClass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple-faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getClass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_loss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple-faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/logistic_loss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple-faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple-faster-rcnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.fighting" />
+        <item itemvalue="Python.logistic_loss" />
+        <item itemvalue="Python.getClass" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b661389-b70c-4ff0-832f-625519be11e2" name="Default Changelist" comment="" />
+      <created>1584101091988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584101091988</updated>
+      <workItem from="1584101101088" duration="1948000" />
+      <workItem from="1584241390958" duration="2197000" />
+      <workItem from="1584260064845" duration="2301000" />
+      <workItem from="1584264017843" duration="3670000" />
+      <workItem from="1584285153993" duration="2202000" />
+      <workItem from="1584324655861" duration="63000" />
+      <workItem from="1584324732900" duration="22660000" />
+      <workItem from="1584409678137" duration="14633000" />
+      <workItem from="1584452304001" duration="1814000" />
+      <workItem from="1584506867610" duration="1908000" />
+      <workItem from="1584516876811" duration="992000" />
+      <workItem from="1584610441535" duration="4395000" />
+      <workItem from="1584618676605" duration="617000" />
+      <workItem from="1584684671983" duration="769000" />
+      <workItem from="1584692668856" duration="763000" />
+      <workItem from="1584708381904" duration="52000" />
+      <workItem from="1584708608083" duration="11223000" />
+      <workItem from="1584783398381" duration="91000" />
+      <workItem from="1584787231948" duration="402000" />
+      <workItem from="1584787653060" duration="9155000" />
+      <workItem from="1584839887414" duration="8980000" />
+      <workItem from="1584866089930" duration="10875000" />
+      <workItem from="1584925485811" duration="18806000" />
+      <workItem from="1584963508931" duration="806000" />
+      <workItem from="1584967931628" duration="6849000" />
+      <workItem from="1585031965109" duration="643000" />
+      <workItem from="1585365979519" duration="6432000" />
+      <workItem from="1585379462474" duration="31000" />
+      <workItem from="1585382283378" duration="36000" />
+      <workItem from="1585412621723" duration="734000" />
+      <workItem from="1585446355689" duration="1105000" />
+      <workItem from="1585448049001" duration="16000" />
+      <workItem from="1585470553879" duration="11188000" />
+      <workItem from="1585549995128" duration="10000" />
+      <workItem from="1585620953179" duration="886000" />
+      <workItem from="1585636981072" duration="691000" />
+      <workItem from="1586310749280" duration="1152000" />
+      <workItem from="1586348283553" duration="612000" />
+      <workItem from="1586403133017" duration="18028000" />
+      <workItem from="1586511984784" duration="23497000" />
+      <workItem from="1586742851397" duration="683000" />
+      <workItem from="1586745670195" duration="5000" />
+      <workItem from="1586830826284" duration="2363000" />
+      <workItem from="1586833481959" duration="9000" />
+      <workItem from="1586839686713" duration="73732000" />
+      <workItem from="1587142880805" duration="15695000" />
+      <workItem from="1587517658110" duration="41000" />
+      <workItem from="1587519240982" duration="163000" />
+      <workItem from="1587543155084" duration="170000" />
+      <workItem from="1587559342591" duration="17000" />
+      <workItem from="1587572645915" duration="9000" />
+      <workItem from="1587611312619" duration="26150000" />
+      <workItem from="1587808824944" duration="12896000" />
+      <workItem from="1587894703145" duration="139000" />
+      <workItem from="1588005908307" duration="15000" />
+      <workItem from="1588086954914" duration="71000" />
+      <workItem from="1588088536517" duration="369000" />
+      <workItem from="1588124262594" duration="2048000" />
+      <workItem from="1588296066356" duration="17683000" />
+      <workItem from="1588334017548" duration="756000" />
+      <workItem from="1588387709512" duration="4249000" />
+      <workItem from="1588409732130" duration="7909000" />
+      <workItem from="1588469240861" duration="1972000" />
+      <workItem from="1588557412243" duration="656000" />
+      <workItem from="1589458098812" duration="671000" />
+      <workItem from="1594201651873" duration="417000" />
+      <workItem from="1594692004790" duration="2854000" />
+      <workItem from="1594696765355" duration="237000" />
+      <workItem from="1594697126544" duration="138000" />
+      <workItem from="1594697473994" duration="3851000" />
+      <workItem from="1594722006777" duration="1919000" />
+      <workItem from="1594725445345" duration="3579000" />
+      <workItem from="1595514847824" duration="881000" />
+      <workItem from="1595554120361" duration="172000" />
+      <workItem from="1595907633893" duration="281000" />
+      <workItem from="1597129204946" duration="11626000" />
+      <workItem from="1597198195630" duration="1650000" />
+      <workItem from="1597204087278" duration="32000" />
+      <workItem from="1598498549271" duration="8000" />
+      <workItem from="1599487452797" duration="52000" />
+      <workItem from="1599487584457" duration="14000" />
+      <workItem from="1599704599188" duration="611000" />
+      <workItem from="1599721162419" duration="2839000" />
+      <workItem from="1599795526880" duration="777000" />
+      <workItem from="1599877003251" duration="2630000" />
+      <workItem from="1600324448648" duration="121000" />
+      <workItem from="1600325355250" duration="3142000" />
+      <workItem from="1600389690380" duration="1539000" />
+      <workItem from="1604998691780" duration="11096000" />
+      <workItem from="1605142299804" duration="39808000" />
+      <workItem from="1605316627803" duration="48000" />
+      <workItem from="1605321029863" duration="24335000" />
+      <workItem from="1605489430784" duration="21154000" />
+      <workItem from="1605580045108" duration="16065000" />
+      <workItem from="1605660429063" duration="22453000" />
+      <workItem from="1605875970719" duration="307000" />
+      <workItem from="1605923732070" duration="12096000" />
+      <workItem from="1606007222376" duration="25000" />
+      <workItem from="1606526133272" duration="19120000" />
+      <workItem from="1606661698229" duration="637000" />
+      <workItem from="1606826865799" duration="1442000" />
+      <workItem from="1606871009151" duration="10792000" />
+      <workItem from="1606958250946" duration="16930000" />
+      <workItem from="1607046660550" duration="11235000" />
+      <workItem from="1607080765942" duration="1894000" />
+      <workItem from="1607132558098" duration="6932000" />
+      <workItem from="1607173388155" duration="8223000" />
+      <workItem from="1607309044203" duration="1753000" />
+      <workItem from="1607408121263" duration="4193000" />
+      <workItem from="1607495554084" duration="18060000" />
+      <workItem from="1607580518974" duration="47000" />
+      <workItem from="1607586561668" duration="22987000" />
+      <workItem from="1607689681718" duration="14337000" />
+      <workItem from="1607768578339" duration="15300000" />
+      <workItem from="1607909250786" duration="7294000" />
+      <workItem from="1607947546266" duration="10372000" />
+      <workItem from="1607992526317" duration="119560000" />
+      <workItem from="1608345435750" duration="42498000" />
+      <workItem from="1608555770722" duration="26273000" />
+      <workItem from="1608686385662" duration="33000" />
+      <workItem from="1608686647521" duration="15690000" />
+      <workItem from="1608729460169" duration="3384000" />
+      <workItem from="1608968933016" duration="23347000" />
+      <workItem from="1609118356475" duration="43517000" />
+      <workItem from="1609378545517" duration="7562000" />
+      <workItem from="1609495714231" duration="4138000" />
+      <workItem from="1609553600698" duration="18617000" />
+      <workItem from="1609723533853" duration="18291000" />
+      <workItem from="1609766155869" duration="2382000" />
+      <workItem from="1609811007180" duration="14210000" />
+      <workItem from="1621083396776" duration="3923000" />
+      <workItem from="1621094287595" duration="1427000" />
+      <workItem from="1621124514712" duration="1677000" />
+      <workItem from="1621135590340" duration="5200000" />
+      <workItem from="1621300924025" duration="925000" />
+      <workItem from="1621408994174" duration="9504000" />
+      <workItem from="1621471844962" duration="44000" />
+      <workItem from="1621598980900" duration="4303000" />
+      <workItem from="1621843224287" duration="1902000" />
+      <workItem from="1621907572461" duration="3177000" />
+      <workItem from="1622462612031" duration="846000" />
+      <workItem from="1622944037948" duration="312000" />
+      <workItem from="1625470722779" duration="4234000" />
+      <workItem from="1625533569144" duration="696000" />
+      <workItem from="1626784010554" duration="3284000" />
+      <workItem from="1626830215902" duration="4718000" />
+      <workItem from="1626919156223" duration="1815000" />
+      <workItem from="1626938676940" duration="49000" />
+      <workItem from="1626940832840" duration="616000" />
+      <workItem from="1626945344316" duration="44000" />
+      <workItem from="1627469805219" duration="374000" />
+      <workItem from="1627981417200" duration="651000" />
+      <workItem from="1628131757381" duration="274000" />
+      <workItem from="1628494068258" duration="16151000" />
+      <workItem from="1628581736105" duration="15918000" />
+      <workItem from="1628606868588" duration="2271000" />
+      <workItem from="1628646607559" duration="12654000" />
+      <workItem from="1628735852138" duration="17660000" />
+      <workItem from="1629082873093" duration="57000" />
+      <workItem from="1629083927345" duration="2346000" />
+      <workItem from="1629164679259" duration="7016000" />
+      <workItem from="1629252295435" duration="1267000" />
+      <workItem from="1630077681326" duration="3125000" />
+      <workItem from="1630213626229" duration="3324000" />
+      <workItem from="1630305117961" duration="16487000" />
+      <workItem from="1630325038449" duration="16000" />
+      <workItem from="1630327140173" duration="8673000" />
+      <workItem from="1630336952591" duration="2214000" />
+      <workItem from="1630373646629" duration="9407000" />
+      <workItem from="1630393625779" duration="10725000" />
+      <workItem from="1630425163405" duration="29108000" />
+      <workItem from="1630636074419" duration="9688000" />
+      <workItem from="1630739594678" duration="4312000" />
+      <workItem from="1630893813648" duration="4272000" />
+      <workItem from="1630911462882" duration="7000" />
+      <workItem from="1631148536756" duration="1839000" />
+      <workItem from="1631243110449" duration="979000" />
+      <workItem from="1631344802137" duration="4987000" />
+      <workItem from="1632387431224" duration="35000" />
+      <workItem from="1633229624392" duration="1612000" />
+      <workItem from="1633330844353" duration="679000" />
+      <workItem from="1633438464449" duration="1089000" />
+      <workItem from="1633439987905" duration="8515000" />
+      <workItem from="1633699351660" duration="705000" />
+      <workItem from="1633913844406" duration="830000" />
+      <workItem from="1634035110660" duration="146000" />
+      <workItem from="1634260898646" duration="2684000" />
+      <workItem from="1634265189221" duration="5877000" />
+      <workItem from="1634295952987" duration="1730000" />
+      <workItem from="1634371222430" duration="1500000" />
+      <workItem from="1634433870914" duration="64000" />
+      <workItem from="1634434270986" duration="86000" />
+      <workItem from="1634563648749" duration="399000" />
+      <workItem from="1634613056031" duration="12539000" />
+      <workItem from="1634783879409" duration="39000" />
+      <workItem from="1634799315358" duration="7987000" />
+      <workItem from="1634988123842" duration="1856000" />
+      <workItem from="1635053449440" duration="9000" />
+      <workItem from="1635053474301" duration="6067000" />
+      <workItem from="1635125829008" duration="20701000" />
+      <workItem from="1635232009527" duration="302000" />
+      <workItem from="1635233969605" duration="1382000" />
+      <workItem from="1635321831607" duration="1643000" />
+      <workItem from="1635403227301" duration="752000" />
+      <workItem from="1635425709965" duration="6013000" />
+      <workItem from="1635473278497" duration="5265000" />
+      <workItem from="1636094445999" duration="10604000" />
+      <workItem from="1636379925843" duration="1195000" />
+      <workItem from="1636384621880" duration="16000" />
+      <workItem from="1636421173537" duration="623000" />
+      <workItem from="1636462307969" duration="2282000" />
+      <workItem from="1637390383628" duration="1387000" />
+      <workItem from="1637633533797" duration="655000" />
+      <workItem from="1638010331333" duration="82000" />
+      <workItem from="1646290864402" duration="3847000" />
+      <workItem from="1646313399922" duration="228000" />
+      <workItem from="1646739394049" duration="3161000" />
+      <workItem from="1646831096270" duration="2092000" />
+      <workItem from="1646837309776" duration="887000" />
+      <workItem from="1646875508109" duration="232000" />
+      <workItem from="1646881613025" duration="902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1646875739879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646875739879" />
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom" timestamp="1646882516900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646882516900" />
+    <state width="1493" height="177" key="GridCell.Tab.0.center" timestamp="1646882516900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="177" key="GridCell.Tab.0.center/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646882516900" />
+    <state width="1493" height="177" key="GridCell.Tab.0.left" timestamp="1646882516900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="177" key="GridCell.Tab.0.left/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646882516900" />
+    <state width="1493" height="177" key="GridCell.Tab.0.right" timestamp="1646882516900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="177" key="GridCell.Tab.0.right/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646882516900" />
+    <state x="2319" y="513" key="com.intellij.ide.util.TipDialog" timestamp="1646875507842">
+      <screen x="1920" y="304" width="1366" height="728" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.304.1366.728@0.0.1536.824" timestamp="1646313400049" />
+    <state x="2319" y="513" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.304.1366.728@1920.304.1366.728" timestamp="1646875507842" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FasterRCNN$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1605746210630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FractureRcnn$test.coverage" NAME="test Coverage Results" MODIFIED="1646882505676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simple_faster_rcnn$build.coverage" NAME="build Coverage Results" MODIFIED="1584245507714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/utils/nms" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_Cos_Classifier$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1608707174642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simple_faster_rcnn$getClass.coverage" NAME="getClass Coverage Results" MODIFIED="1584693143349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_SideHead_mc2$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1633700030899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simple_faster_rcnn$train.coverage" NAME="train Coverage Results" MODIFIED="1584265679086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_SideHead$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1630080099060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_SideHead_mc$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1630388521593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_SideHead_cls$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1646875518909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_SideHead_mc$logistic_loss.coverage" NAME="logistic_loss Coverage Results" MODIFIED="1630334624503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/simple_faster_rcnn$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1594723320239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FractureRcnn$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1646882099193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_Cos$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1607911248099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FasterRCNN_Cos_Head$fighting.coverage" NAME="fighting Coverage Results" MODIFIED="1621910197428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
